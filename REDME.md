@@ -1,0 +1,2 @@
+- Criando projeto 4.
+- PRojeto referente a um site de noticias chamado "Notícias da Cidade".
